@@ -16,8 +16,5 @@ Here is Sungwoo Park's Github Profile 🤗
 - [JS piscine](https://github.com/42js/js_piscine) : JavaScript crunch course from 42Seoul
 - Promy [Frontend](https://github.com/textuel/promy-frontend) & [Backend](https://github.com/textuel/promy-backend) : Skilled industrial Personnel info site project
 
-#### 📫 How to reach me:
-- Website : https://sungwoo.dev
-- Facebook : https://www.facebook.com/cos.sungwoo
-- Linkedin : https://www.linkedin.com/in/cos18/
-- Email : codest99@gmail.com
+#### 📫 How to reach me: https://sungwoo.dev
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcos18%2Fcos18)](https://hits.seeyoufarm.com)
