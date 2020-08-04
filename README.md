@@ -5,8 +5,9 @@
 - SungKyunKwan Univ. undergraduate majoring in Computer and Math Education (2 majors) since Mar 2018
 
 #### 🌱 I’m currently learning
-- 🔮 Modern JS, NodeJS
+- 🔮 Modern JS, NodeJS, Express
 - 🕸 React (with ⛓Hooks)
+- 🐍 Django (DRF)
 - 🛠 CI/CD with Github Actions, Docker, AWS
 - 💻 CS with C (in 42)
 
