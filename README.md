@@ -18,9 +18,4 @@
 - 🛠 CI/CD with Github Actions, Docker, AWS
 - 💻 CS with C (in 42)
 
-#### 👯 I’m looking to collaborate on
-- [JS piscine](https://github.com/42js/js_piscine) : JavaScript crunch course from 42Seoul
-- Promy [Frontend](https://github.com/textuel/promy-frontend) & [Backend](https://github.com/textuel/promy-backend) : Skilled industrial Personnel info site project
-- [Eval42](https://github.com/42js/js_piscine) : Evaluation Helper @ 42Seoul
-
 [![Sungwoo's github stats](https://github-readme-stats.vercel.app/api?username=cos18&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
