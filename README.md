@@ -23,4 +23,4 @@
 - Promy [Frontend](https://github.com/textuel/promy-frontend) & [Backend](https://github.com/textuel/promy-backend) : Skilled industrial Personnel info site project
 - [Eval42](https://github.com/42js/js_piscine) : Evaluation Helper @ 42Seoul
 
-[![Sungwoo's github stats](https://github-readme-stats.vercel.app/api?username=cos18&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Sungwoo's github stats](https://github-readme-stats.vercel.app/api?username=cos18&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
