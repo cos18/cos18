@@ -14,7 +14,6 @@
 #### 🌱 I’m currently learning
 - 🔮 Modern JS, NodeJS, Express
 - 🕸 React (with ⛓Hooks)
-- 🐍 Django (DRF)
 - 🛠 CI/CD with Github Actions, Docker, AWS
 - 💻 CS with C (in 42)
 
