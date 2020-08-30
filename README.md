@@ -13,6 +13,7 @@
 
 #### 🌱 I’m currently learning
 - 🔮 Modern JS, NodeJS, Express
+- 🤓 Typescript
 - 🕸 React (with ⛓Hooks)
 - 🛠 CI/CD with Github Actions, Docker, AWS
 - 💻 CS with C (in 42)
